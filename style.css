@@ -1,0 +1,46 @@
+
+
+html, body{ 
+  min-height: 75rem;
+  padding-top: 4.5rem;
+  
+  
+}
+
+.btn-responsive {
+  white-space: normal !important;
+  word-wrap: break-word;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.card-img-overlay .card-title {
+  border: 1px solid #000000;
+  display: flex;
+  flex-wrap: wrap;
+  align-content:center
+}
+
+
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+
+
+
+
+
+
+
+
