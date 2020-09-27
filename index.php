@@ -52,7 +52,7 @@
         <h1 class="display-3">Find Nearby Services</h1>
         <p>Getting ready to repair, refurnish, refueling or remodeling your car?</p>
         <a href="location.php" class="btn btn-outline-light btn-lg btn-responsive " role="button" aria-pressed="true">Learn More</a>
-        <a href="signup.php" class="btn btn-outline-success btn-lg btn-responsive " role="button" aria-pressed="true">Get Started</a>
+        <a href="signin.php" class="btn btn-outline-success btn-lg btn-responsive " role="button" aria-pressed="true">Get Started</a>
       </div>
     </div>
 
@@ -62,7 +62,7 @@
           <h1 class="display-3" >Wash Your Car</h1>
           <p>Getting ready to repair, refurnish, refueling or remodeling your car?</p>
           <a href="services.php" class="btn btn-outline-light btn-lg btn-responsive " role="button" aria-pressed="true">Learn More</a>
-          <a href="signup.php" class="btn btn-outline-success btn-lg btn-responsive " role="button" aria-pressed="true">Get Started</a>
+          <a href="signin.php" class="btn btn-outline-success btn-lg btn-responsive " role="button" aria-pressed="true">Get Started</a>
       </div>
     </div>
 
@@ -72,7 +72,7 @@
           <h1 class="display-3">Regular Inspect</h1>
           <p>We are right at your service at anytime, anywhere you want inside the Dhaka. Our services can reach you at any desired time you want.</p>
           <a href="services.php" class="btn btn-outline-light btn-lg btn-responsive " role="button" aria-pressed="true">Learn More</a>
-          <a href="signup.php" class="btn btn-outline-success btn-lg btn-responsive " role="button" aria-pressed="true">Get Started</a>
+          <a href="signin.php" class="btn btn-outline-success btn-lg btn-responsive " role="button" aria-pressed="true">Get Started</a>
       </div>
     </div>
   </div>

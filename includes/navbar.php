@@ -45,6 +45,10 @@
 			<a class="nav-link" href="contactus.php">Contact<span class="sr-only">(current)</span></a>
 			</li>
 
+			<li class="nav-item active">
+			<a class="nav-link" href="signin.php">Become a Member<span class="sr-only">(current)</span></a>
+			</li>
+
 
 			</ul>
 			<form class="form-inline mt-2 mt-md-0">
@@ -52,7 +56,7 @@
 			<button type="button" class="btn btn-outline-success ">Search</button>
 
 			
-			<a class="nav-link " href="signin.php">Sign In</span></a>
+			
 			
 			</form>
 		</div>
